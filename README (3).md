@@ -1,4 +1,4 @@
-# Precision-medicine-assignment_2
+# Project:Comprehensive Analysis Pipeline for RNA-Seq Data in Precision Medicine
 Name: Bhavana Parupalli
 Programming language: linux , R
 Date: 11/13/2024
